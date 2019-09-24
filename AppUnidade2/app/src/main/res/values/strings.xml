@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Trabalho - Unidade 2</string>
+    <string name="gravar">Gravar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="imd">Instituto Metropóle Digital</string>
+    <string name="curso"> IMD0509 - Desenvolvimento para Dispositivos Móveis </string>
+    <string name="turma"> T01 (2019.2) </string>
+</resources>
